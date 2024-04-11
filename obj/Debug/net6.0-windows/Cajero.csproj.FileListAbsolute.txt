@@ -1,0 +1,42 @@
+C:\Users\David Arias\source\repos\Cajero\Cajero\bin\Debug\net6.0-windows\Cajero.exe
+C:\Users\David Arias\source\repos\Cajero\Cajero\bin\Debug\net6.0-windows\Cajero.deps.json
+C:\Users\David Arias\source\repos\Cajero\Cajero\bin\Debug\net6.0-windows\Cajero.runtimeconfig.json
+C:\Users\David Arias\source\repos\Cajero\Cajero\bin\Debug\net6.0-windows\Cajero.dll
+C:\Users\David Arias\source\repos\Cajero\Cajero\bin\Debug\net6.0-windows\Cajero.pdb
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.csproj.AssemblyReference.cache
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.Cajero.resources
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.Properties.Resources.resources
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.csproj.GenerateResource.cache
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.AssemblyInfoInputs.cache
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.AssemblyInfo.cs
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.dll
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\refint\Cajero.dll
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.pdb
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.genruntimeconfig.cache
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\ref\Cajero.dll
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.clientes.resources
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\Interop.VBIDE.dll
+C:\Users\David Arias\source\repos\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.csproj.ResolveComReference.cache
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\bin\Debug\net6.0-windows\Cajero.exe
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\bin\Debug\net6.0-windows\Cajero.deps.json
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\bin\Debug\net6.0-windows\Cajero.runtimeconfig.json
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\bin\Debug\net6.0-windows\Cajero.dll
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\bin\Debug\net6.0-windows\Cajero.pdb
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.csproj.AssemblyReference.cache
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\Interop.VBIDE.dll
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.csproj.ResolveComReference.cache
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.clientes.resources
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.Cajero.resources
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.Properties.Resources.resources
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.csproj.GenerateResource.cache
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.AssemblyInfoInputs.cache
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.AssemblyInfo.cs
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.dll
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\refint\Cajero.dll
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.pdb
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\Cajero.genruntimeconfig.cache
+C:\Users\Julian\OneDrive\Escritorio\UDEC\2024 Carga academica\I Periodo\Ing. de Software II_3639\Ejemplo_Control de versiones\Cajero\Cajero\obj\Debug\net6.0-windows\ref\Cajero.dll
